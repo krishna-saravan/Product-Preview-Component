@@ -1,0 +1,1 @@
+This is a Product preview card component a challenge by Frontend Mentor
